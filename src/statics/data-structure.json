@@ -1,0 +1,28 @@
+{
+    "chats": {
+        "00sxhveo2hQsuNWUQTMm5adEm783": {
+            "BpdJZuRDGXO5Rde50Xjge059Any1": {
+                "MESSAGEID1": {
+                    "text": "Hi how are you?",
+                    "from": "them"
+                },
+                "MESSAGEID2": {
+                    "text": "Good thanks, how are you?",
+                    "from": "me"
+                }
+            }
+        },
+        "BpdJZuRDGXO5Rde50Xjge059Any1": {
+            "00sxhveo2hQsuNWUQTMm5adEm783": {
+                "MESSAGEID1": {
+                    "text": "Hi how are you?",
+                    "from": "me"
+                },
+                "MESSAGEID2": {
+                    "text": "Good thanks, how are you?",
+                    "from": "them"
+                }
+            }
+        }
+    }
+}
